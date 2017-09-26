@@ -1,3 +1,13 @@
+///////////////////////////////////////////////////////
+//
+// AUTOMATIC DECELLULARIZATION
+//
+// Nicklason Lab, Yale University
+//
+// Alexander Engler, Pong Trairatvorakul, Lexi Suberi
+//
+///////////////////////////////////////////////////////
+
 //== PUMP DEFINITIONS ============================
 #define ENone 34
 #define Aone  35
